@@ -4,7 +4,7 @@ Pertemuan         : 03
 Sumber kebutuhan  : LAB-R01; LAB-R02
 Jenis/status      : Use case diagram / LATIHAN NOTASI
 Kakas             : drawio
-Pembuat           : ALbar hidzi alkariem 2406092
+Pembuat           : 2406105 adit
 Versi dan tanggal : v01 / 14/10/2026
 Asumsi            : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan       : [hasil review]
