@@ -1,0 +1,74 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="-4NKGIbeV0XBCNcmvsdR">
+    <mxGraphModel dx="1704" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-1" parent="1" style="swimlane;" value="sistem" vertex="1">
+          <mxGeometry height="550" width="420" x="390" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-4" parent="pUcYvPVCQNRTl_rKRVAz-1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="200" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-18" edge="1" parent="pUcYvPVCQNRTl_rKRVAz-1" source="pUcYvPVCQNRTl_rKRVAz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-7" parent="pUcYvPVCQNRTl_rKRVAz-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Menolak penghapusan dan menampilkan pesan data akademik mahasiswa masih aktif" vertex="1">
+          <mxGeometry height="110" width="120" x="300" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-14" edge="1" parent="pUcYvPVCQNRTl_rKRVAz-1" source="pUcYvPVCQNRTl_rKRVAz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.609;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-15" connectable="0" parent="pUcYvPVCQNRTl_rKRVAz-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="0.0201" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-8" parent="pUcYvPVCQNRTl_rKRVAz-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mahasiswa memiliki data akademik aktif&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-17" edge="1" parent="pUcYvPVCQNRTl_rKRVAz-1" source="pUcYvPVCQNRTl_rKRVAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-9" parent="pUcYvPVCQNRTl_rKRVAz-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sistem menghapus data mahasiswa dan menampilkan konfirmasi penghapusan" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-2" parent="1" style="swimlane;" value="Admin akademik" vertex="1">
+          <mxGeometry height="550" width="350" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-10" edge="1" parent="pUcYvPVCQNRTl_rKRVAz-2" source="pUcYvPVCQNRTl_rKRVAz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-3" parent="pUcYvPVCQNRTl_rKRVAz-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="150" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-5" parent="pUcYvPVCQNRTl_rKRVAz-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="memilih data mahasiswa yang akan dihapus" vertex="1">
+          <mxGeometry height="60" width="120" x="105" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-6" parent="pUcYvPVCQNRTl_rKRVAz-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Menginfirmasi penghapusan" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-11" edge="1" parent="1" source="pUcYvPVCQNRTl_rKRVAz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-12" edge="1" parent="1" source="pUcYvPVCQNRTl_rKRVAz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-6">
+          <mxGeometry relative="1" x="0.0013" as="geometry">
+            <Array as="points">
+              <mxPoint x="487.5" y="520" />
+              <mxPoint x="350" y="520" />
+              <mxPoint x="350" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-13" connectable="0" parent="pUcYvPVCQNRTl_rKRVAz-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="0.0865" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pUcYvPVCQNRTl_rKRVAz-16" edge="1" parent="1" source="pUcYvPVCQNRTl_rKRVAz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="pUcYvPVCQNRTl_rKRVAz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

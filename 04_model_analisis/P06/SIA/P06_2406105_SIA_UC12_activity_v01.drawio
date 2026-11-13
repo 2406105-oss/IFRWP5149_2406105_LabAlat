@@ -1,0 +1,80 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="oM72thhD3EIR8fJQNe6F">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aSXOZQk_pIkU72f35MjG-1" parent="1" style="swimlane;" value="Sistem" vertex="1">
+          <mxGeometry height="480" width="370" x="390" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-5" parent="aSXOZQk_pIkU72f35MjG-1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="170" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-22" edge="1" parent="aSXOZQk_pIkU72f35MjG-1" source="aSXOZQk_pIkU72f35MjG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-9" parent="aSXOZQk_pIkU72f35MjG-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Menampilkan pesan data mahasiswa tidak ditemukan" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-15" edge="1" parent="aSXOZQk_pIkU72f35MjG-1" source="aSXOZQk_pIkU72f35MjG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-16" connectable="0" parent="aSXOZQk_pIkU72f35MjG-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.12" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-17" edge="1" parent="aSXOZQk_pIkU72f35MjG-1" source="aSXOZQk_pIkU72f35MjG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-18" connectable="0" parent="aSXOZQk_pIkU72f35MjG-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.4087" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-10" parent="aSXOZQk_pIkU72f35MjG-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data mahasiswa di temukan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="165" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-11" parent="aSXOZQk_pIkU72f35MjG-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Menampilkan data mahasiswa saat ini" vertex="1">
+          <mxGeometry height="60" width="120" x="35" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-23" edge="1" parent="aSXOZQk_pIkU72f35MjG-1" source="aSXOZQk_pIkU72f35MjG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-12" parent="aSXOZQk_pIkU72f35MjG-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sistem menyimpan data yang di ubah dan menampilkan konfirmasi" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-2" parent="1" style="swimlane;" value="Admin akademik" vertex="1">
+          <mxGeometry height="480" width="340" x="50" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-13" edge="1" parent="aSXOZQk_pIkU72f35MjG-2" source="aSXOZQk_pIkU72f35MjG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-3" parent="aSXOZQk_pIkU72f35MjG-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-6" parent="aSXOZQk_pIkU72f35MjG-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Memilih data mahasiswa yang akan di ubah" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-20" edge="1" parent="aSXOZQk_pIkU72f35MjG-2" source="aSXOZQk_pIkU72f35MjG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-7" parent="aSXOZQk_pIkU72f35MjG-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mengubah data mahasiswa" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-8" parent="aSXOZQk_pIkU72f35MjG-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Menyimpan perubahan" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-14" edge="1" parent="1" source="aSXOZQk_pIkU72f35MjG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-19" edge="1" parent="1" source="aSXOZQk_pIkU72f35MjG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aSXOZQk_pIkU72f35MjG-21" edge="1" parent="1" source="aSXOZQk_pIkU72f35MjG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="aSXOZQk_pIkU72f35MjG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
